@@ -51,13 +51,18 @@ ul {
 .links {
   display: flex;
   flex-direction: row;
+  gap: 16px;
 }
 
 .left {
   display: flex;
   margin-right: auto;
+  padding: 16px;
 }
 
 .right {
   display: flex;
+  padding: 16px;
+  align-items: center;
+  gap: 16px;
 }
