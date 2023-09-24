@@ -30,6 +30,8 @@ body {
 
 .main .header {
   font-weight: bold;
+  font-size: 20px;
+  display: flex;
 }
 
 .main .text {
@@ -63,6 +65,7 @@ body {
   justify-content: center;
   border: 1px solid #eee;
   padding: 0;
+  margin-left: auto;
 }
 
 button {
